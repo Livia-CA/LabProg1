@@ -1,3 +1,5 @@
+/*Escreva um programa para encontrar o maior valor entre três valores usando o operador ternário.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 

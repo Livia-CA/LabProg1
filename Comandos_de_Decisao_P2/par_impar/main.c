@@ -1,3 +1,5 @@
+/*Escreva um programa para determinar e imprimir na tela se o número é par ou ímpar utilizando o comando switch.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 

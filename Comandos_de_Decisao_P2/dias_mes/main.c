@@ -1,3 +1,5 @@
+/*Escreva um programa para ler um número inteiro entre 1 e 12 representando o mês do ano. Seu programa deve imprimir quantos dias possui o respectivo mês.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
